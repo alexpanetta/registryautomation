@@ -1,0 +1,14 @@
+{
+    "Computershare" : {
+        "BaseURL": "https://www-au.computershare.com/Investor"
+    },
+    "Computershare-Home-Page": {
+        "URL": "/#Home"
+    },
+    "Computershare-Documents-Page": {
+        "DateFrom": "2022-07-01",
+        "DateTo": "2023-06-30",
+        "DownloadFolder": "./downloads",
+        "RegistryName": "Computershare"
+    }
+}
